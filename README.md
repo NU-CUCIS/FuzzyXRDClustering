@@ -6,12 +6,12 @@ Final composition-phase diagram using proposed approach are shown below for both
 
 ### Co-Ni-Ta composition-phase diagram
 <p align="center">
-  <img src="images/CoNiTa-merged-results.png" width="600">
+  <img src="CoNiTa-merged-results.png" width="600">
 </p>
 
 ### Co-Ti-Ta composition-phase diagram
 <p align="center">
-  <img src="images/CoTiTa-merged-results.png" width="600">
+  <img src="CoTiTa-merged-results.png" width="600">
 </p>
 
 
@@ -19,12 +19,12 @@ Final pure phase representations after merging similar initial pure phases are d
 
 ### Co-Ni-Ta phase representations
 <p align="center">
-  <img src="images/CoNiTa-phases.png" width="600">
+  <img src="CoNiTa-phases.png" width="600">
 </p>
 
 ### Co-Ti-Ta phase representations
 <p align="center">
-  <img src="images/CoTiTa-phases.png" width="600">
+  <img src="CoTiTa-phases.png" width="600">
 </p>
 
 ## Developer Team
