@@ -35,7 +35,7 @@ The code was developed by Dipendra Jha from the <a href="http://cucis.ece.northw
 
 Please cite the following publication if you use this repository :
 
-1. Jha, Dipendra, K. V. L. V. Narayanachari, Ruifeng Zhang, Denis T. Keane, Wei Keng Liao, Alok Choudhary, Yip Wah Chung, Michael J. Bedzyk, and Ankit Agrawal. "Enhancing phase mapping for high-throughput X-ray diffraction experiments using fuzzy clustering." In 10th International Conference on Pattern Recognition Applications and Methods, ICPRAM 2021, pp. 507-514. SciTePress, 2021. [<a href="https://www.scholars.northwestern.edu/en/publications/enhancing-phase-mapping-for-high-throughput-x-ray-diffraction-exp">PDF</a>].
+1. Dipendra Jha, K. V. L. V. Narayanachari, Ruifeng Zhang, Denis T. Keane, Wei Keng Liao, Alok Choudhary, Yip Wah Chung, Michael J. Bedzyk, and Ankit Agrawal. "Enhancing phase mapping for high-throughput X-ray diffraction experiments using fuzzy clustering." In 10th International Conference on Pattern Recognition Applications and Methods, ICPRAM 2021, pp. 507-514. SciTePress, 2021. [<a href="https://www.scholars.northwestern.edu/en/publications/enhancing-phase-mapping-for-high-throughput-x-ray-diffraction-exp">PDF</a>].
 
 
 ## Questions/Comments
